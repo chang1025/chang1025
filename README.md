@@ -2,10 +2,11 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=changkwon1025%20GitHub%20Profile&descAlignY=80&descAlign=70"/>
 </p>
 
-
+<p align='center'>
 <img src="https://img.shields.io/badge/JAVASCRIPT-8A2BE2?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=F7DF1E">
+</p>
 
 <!--
 **chang1025/chang1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
