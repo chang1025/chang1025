@@ -2,16 +2,13 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=chang1025%20GitHub%20Profile&descAlignY=70&descAlign=80"/>
 </p>
 
-<h3 align="center">My Stack</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,cpp&theme=dark" alt="My Skills" />
-</p>
+<div align="center">
 
-<h3 align="center">Top Languages</h3>
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chang1025&theme=radical" alt="Top Languages" />
-</p>
+| <h3>My Stack</h3> | <h3>Top Languages</h3> |
+| :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=js,py,cpp&theme=dark" alt="My Skills" /> | <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chang1025&theme=radical" alt="Top Languages" /> |
 
+</div>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chang1025&bg_color=0d1117&color=8A2BE2&line=3776AB&point=F7DF1E&area=true&hide_border=true" alt="Activity Graph" />
