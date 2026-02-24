@@ -10,7 +10,7 @@
 
 | <h3>My Stack</h3> | <h3>Top Languages</h3> |
 | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=js,py,cpp&theme=dark" alt="My Skills" /> | <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chang1025&theme=radical" alt="Top Languages" /> |
+| <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="My Skills" /> | <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chang1025&theme=radical" alt="Top Languages" /> |
 
 </div>
 
