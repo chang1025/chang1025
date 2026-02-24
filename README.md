@@ -3,9 +3,9 @@
 </p>
 
 
-<img src="https://img.shields.io/badge/JAVA-8A2BE2">
-<img src="https://img.shields.io/badge/Python-8A2BE2"> 
-<img src="https://img.shields.io/badge/C++-8A2BE2"> 
+<img src="https://img.shields.io/badge/JAVASCRIPT-8A2BE2?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=F7DF1E">
 
 <!--
 **chang1025/chang1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
