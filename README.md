@@ -3,20 +3,22 @@
 </p>
 
 <h3 align="center">My Stack</h3>
-
-<p align='center'>
-<img src="https://img.shields.io/badge/JAVASCRIPT-8A2BE2?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=F7DF1E">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,py,cpp&theme=dark" alt="My Skills" />
 </p>
 
-<h3 align="center">Github Stats</h3>
+<h3 align="center">Top Languages</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chang1025&show_icons=true&theme=radical" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chang1025&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chang1025&theme=radical" alt="Top Languages" />
 </p>
+
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chang1025&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chang1025&bg_color=0d1117&color=8A2BE2&line=3776AB&point=F7DF1E&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Developing+Mafia+Game+AI;CRA+Winter+Project+Member;Python+%26+PyTorch+Developer" alt="Typing SVG" />
 </p>
 
 ## About Me
